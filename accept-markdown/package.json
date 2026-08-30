@@ -1,0 +1,9 @@
+{
+  "name": "accept-markdown-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Accept: text/markdown による content negotiation の最小実装",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "marked": "^14.1.4" }
+}
